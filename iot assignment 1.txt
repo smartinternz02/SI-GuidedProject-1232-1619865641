@@ -1,0 +1,22 @@
+Applications of iot
+
+1.smart robots
+2. Airbus: Factory of the Future
+3.Using IoT to drive manufacturing efficiency
+4.wearables (fitness bands ,virutual glasses etc)
+5.health(improving care of patients)
+6.traffic monitoring
+7.agriculture (stages of soil)
+8.hospitality (implementation of electronic keys)
+9.water supply
+10.maintenance management
+11.energy consumption
+12.insurance
+13.retail(malls)
+14.transportation
+15.smart home
+16.connected cars
+17.smart cities
+18.poultry farming
+19.industrial internet
+20.buildings
